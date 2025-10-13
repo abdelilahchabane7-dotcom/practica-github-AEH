@@ -1,5 +1,5 @@
 # practica-github-AEH
 ## sobre mí
-- Nombre: <tu nombre>
+- Nombre: <Abdelilah>
 - Curso 1ª DAM
-- Afición: <algo que te guste>
+- Afición: <Futbol>
