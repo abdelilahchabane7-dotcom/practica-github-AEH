@@ -1,5 +1,5 @@
-# practica-github-AEH
-## sobre mí
-- Nombre: Abdelilah
-- Curso 1ª DAM
-- Afición: jugar
+# Perfil personal 
+
+-**Nombre:** Abdelilah
+-**Curso:** 1ª DAM
+-**Descripcion breve:** Soy una persona atractiva 
